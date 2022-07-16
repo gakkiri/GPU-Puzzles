@@ -1,3 +1,7 @@
+# This is my toy code answer to this super funny repo!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gakkiri/GPU-Puzzles/blob/main/My%20GPU_puzzlers%20Answer.ipynb)
+
+
 # GPU Puzzles
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
