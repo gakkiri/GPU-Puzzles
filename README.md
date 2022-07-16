@@ -1,5 +1,5 @@
 # This is my toy code answer to this super funny repo!
-Expect more Puzzles!!!
+I'm looking forward to seeing more puzzles!!!
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gakkiri/GPU-Puzzles/blob/main/My%20GPU_puzzlers%20Answer.ipynb)
 
 
